@@ -1,2 +1,12 @@
 # Souel
 IP-CIDR,64.110.88.43/32,no-resolve
+
+
+# PT
+
+DOMAIN-SUFFIX,hdchina.org,Others
+DOMAIN-SUFFIX,open.cd,Others
+DOMAIN-SUFFIX,btschool.club,Others
+DOMAIN-SUFFIX,piggo.me,Others
+DOMAIN-SUFFIX,m-team.cc,Others
+DOMAIN-SUFFIX,hdhome.org,Others
