@@ -3,3 +3,4 @@ IP-CIDR,64.110.88.0/24,no-resolve
 IP-CIDR,64.110.89.0/24,no-resolve
 IP-CIDR,130.162.144.0/24,no-resolve
 IP-CIDR,129.154.194.0/24,no-resolve
+DOMAIN-SUFFIX,ccan.eu.org
